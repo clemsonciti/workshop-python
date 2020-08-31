@@ -9,6 +9,20 @@ objectives:
 keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
 ---
-FIXME
+{" .slide}
+> ## This is a slide
+>
+>> 2+2
+>> print("Hello World")
+> {: .language-python}
+>
+{: .slide}
+> ##Challenge
+> What is the question?
+>
+> ##Solution
+> I don't know, I thought you did
+> {: .solution}
+{: .challenge}
 
 {% include links.md %}
