@@ -14,8 +14,10 @@ keypoints:
 
 > ## This is a slide
 >
-> > 2+2
-> > print("Hello World")
+> ~~~
+> 2+2
+> print("Hello World")
+> ~~~
 > {: .language-python}
 >
 {: .slide}
@@ -23,8 +25,8 @@ keypoints:
 > ## Challenge
 > What is the question?
 >
-> ## Solution
-> I don't know, I thought you did
+> > ## Solution
+> > I don't know, I thought you did
 > {: .solution}
 {: .challenge}
 
